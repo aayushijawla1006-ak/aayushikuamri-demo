@@ -2,5 +2,5 @@
 
 This is my first repo
 
-Author- <b>Aayushi Kumari<b>
+Author- <b>Aayushi Jawla<b>
 
